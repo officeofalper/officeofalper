@@ -12,6 +12,17 @@ High school student at Yüksel-İlhan Alanyalı Science High School, Istanbul (g
 - Ozturk, A. (2026). Immunometabolism: How Metabolic Reprogramming Controls Immune Cell Activation and Function. *Next Frontier For Life Sciences and AI*. https://doi.org/10.62802/nflsai.93
 - Ozturk, A. (2026). AI-Assisted Drug Discovery: Predicting Protein–Ligand Interactions and Identifying Candidate Therapeutic Molecules. *Next Frontier For Life Sciences and AI*. https://doi.org/10.62802/nflsai.110
 
+## Computational projects
+
+Four small projects that turn specific claims from the reviews above into something
+measurable. None is experimental work and none is a new finding; each has an English
+write-up and an interactive page that runs in the browser.
+
+- **[cancer-flux-balance](https://github.com/officeofalper/cancer-flux-balance)** — Flux balance analysis of cancer metabolism: why fast, wasteful glycolysis can beat efficient respiration. [Live](https://officeofalper.github.io/cancer-flux-balance/web/)
+- **[tme-glucose-competition](https://github.com/officeofalper/tme-glucose-competition)** — Nutrient competition between tumour cells and T cells, and when a drug helps or backfires. [Live](https://officeofalper.github.io/tme-glucose-competition/web/)
+- **[binding-affinity-leakage](https://github.com/officeofalper/binding-affinity-leakage)** — How much of an affinity model's reported accuracy survives an honest test set. [Live](https://officeofalper.github.io/binding-affinity-leakage/web/)
+- **[sirt-docking](https://github.com/officeofalper/sirt-docking)** — Induced fit in SIRT2: when the input you give a docking program cannot support a correct answer. [Live](https://officeofalper.github.io/sirt-docking/web/)
+
 ## Tools
 
 Python · C++ · Java · HTML · PyMOL
