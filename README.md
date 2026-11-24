@@ -22,6 +22,7 @@ write-up and an interactive page that runs in the browser.
 - **[tme-glucose-competition](https://github.com/officeofalper/tme-glucose-competition)** — Nutrient competition between tumour cells and T cells, and when a drug helps or backfires. [Live](https://officeofalper.github.io/tme-glucose-competition/web/)
 - **[binding-affinity-leakage](https://github.com/officeofalper/binding-affinity-leakage)** — How much of an affinity model's reported accuracy survives an honest test set. [Live](https://officeofalper.github.io/binding-affinity-leakage/web/)
 - **[sirt-docking](https://github.com/officeofalper/sirt-docking)** — Induced fit in SIRT2: when the input you give a docking program cannot support a correct answer. [Live](https://officeofalper.github.io/sirt-docking/web/)
+- **[hsp90-docking](https://github.com/officeofalper/hsp90-docking)** — Testing the rule from the study above on a second target. It survives in part, and the write-up corrects an error of mine that had made it look stronger. [Live](https://officeofalper.github.io/hsp90-docking/web/)
 
 ## Tools
 
